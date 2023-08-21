@@ -11,7 +11,8 @@ Waarom deze tool bestaat lees je in het bestand [Onderzoek-GH.md](https://github
 
 ## Resultaat
 (Data is van gegenereed en niet hetzelfde als het onderzoek.)
-![image](https://github.com/olivierverwoerd/A-B_test_tool_with_APA/assets/22635990/c3915a75-19b7-486a-abc3-a27ddb9cbf9a)
+![image](https://github.com/olivierverwoerd/A-B_test_tool_with_APA/assets/22635990/616b2763-1857-478e-b676-814a30beed07)
+
 ![image](https://github.com/olivierverwoerd/A-B_test_tool_with_APA/assets/22635990/c7cde3ec-4ebe-47af-936b-6f50b7084744)
 
 
