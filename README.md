@@ -1,6 +1,6 @@
 # A/B test tool met APA 
 A/B test tool dat apa waardes maakt. Met uitleg specifiek voor de onboarding van e-learning bedrijven
-
+Waarom deze tool bestaat lees je in het bestand [Onderzoek-GH.md](https://github.com/olivierverwoerd/A-B_test_tool_with_APA/blob/main/Onderzoek-GH.md)
 
 # Hoe dit programma te gebruiken.
 1. Installeer [Jupyter Notebook](https://jupyter.org/)
