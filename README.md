@@ -4,7 +4,8 @@ A/B test tool dat apa waardes maakt. Met uitleg specifiek voor de onboarding van
 
 # Hoe dit programma te gebruiken.
 1. Installeer [Jupyter Notebook](https://jupyter.org/)
-1. Zorg dat de dependencies 
+1. Zorg dat de dependencies geinstaleerd worden.
+1. Als er geen tijdristricite is 
 1. Voer de data in bij het stuk `INSERT YOUR DATA HERE` of voer het in het invoer vak bij het starten van de code.
 1. Bij het gebruik van de APA notatie is het belangrijk om de letters cursief te zetten. Dit was helaas niet mogelijk om in de output van de code zelf te doen
 
